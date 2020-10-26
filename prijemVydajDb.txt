@@ -1,0 +1,25 @@
+15
+suma; typ; popis; rok; mesiac; den
+500;PRIJEM; ...;2019;12;20
+500;VYDAJ; ...;2019;12;20;MESACNE
+100;VYDAJ;kupil som si nieco;2019;12;21;DETI
+1;PRIJEM;toto je prijem;2019;12;2010;VYDAJ;toto je vydaj;2019;12;20;JEDLO1;PRIJEM;toto je prijem;2019;12;20
+10;VYDAJ;toto je vydaj;2019;12;20;JEDLO
+1;PRIJEM;toto je prijem;2019;12;20
+10;VYDAJ;toto je vydaj;2019;12;20;JEDLO
+1;PRIJEM;toto je prijem;2019;12;20
+10;VYDAJ;toto je vydaj;2019;12;20;JEDLO
+1;PRIJEM;toto je prijem;2019;12;20
+10;VYDAJ;toto je vydaj;2019;12;20;JEDLO
+1;PRIJEM;toto je prijem;2019;12;20
+10;VYDAJ;toto je vydaj;2019;12;20;JEDLO
+1;PRIJEM;toto je prijem;2019;12;20
+10;VYDAJ;toto je vydaj;2019;12;20;JEDLO
+1;PRIJEM;toto je prijem;2019;12;20
+10;VYDAJ;toto je vydaj;2019;12;20;JEDLO
+1;PRIJEM;toto je prijem;2019;12;20
+10;VYDAJ;toto je vydaj;2019;12;20;JEDLO
+1;PRIJEM;toto je prijem;2019;12;20
+10;VYDAJ;toto je vydaj;2019;12;20;JEDLO
+1;PRIJEM;toto je prijem;2019;12;20
+10;VYDAJ;toto je vydaj;2019;12;20;JEDLO
